@@ -54,4 +54,4 @@ supply-chain-dashboard.xlsx    an interactive Excel dashboard over the same data
 SQL, SQLite, Excel
 
 ---
-Rakan Ahmed Al-Nusayri — [github.com/RaKaN-DaTa](https://github.com/RaKaN-DaTa)
+Rakan Ahmed Al-Nusayri — [github.com/RAKAN-A-ALNUSAYRI](https://github.com/RAKAN-A-ALNUSAYRI)

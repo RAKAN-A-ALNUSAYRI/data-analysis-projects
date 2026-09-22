@@ -1,4 +1,4 @@
-# Cookie Sales Report
+# Cookie Sales Analysis
 
 ![preview](preview.jpg)
 
@@ -54,4 +54,4 @@ one — useful for checking the report's numbers against the raw files.
 Power BI, DAX, data modelling, Excel
 
 ---
-Rakan Ahmed Al-Nusayri — [github.com/RaKaN-DaTa](https://github.com/RaKaN-DaTa)
+Rakan Ahmed Al-Nusayri — [github.com/RAKAN-A-ALNUSAYRI](https://github.com/RAKAN-A-ALNUSAYRI)

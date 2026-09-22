@@ -1,4 +1,4 @@
-# City Profitability Model
+# City Profitability Analysis
 
 ![preview](preview.jpg)
 
@@ -66,4 +66,4 @@ city-profitability-dashboard.xlsx     an interactive Excel dashboard over the sa
 SQL, SQLite, dimensional modelling
 
 ---
-Rakan Ahmed Al-Nusayri — [github.com/RaKaN-DaTa](https://github.com/RaKaN-DaTa)
+Rakan Ahmed Al-Nusayri — [github.com/RAKAN-A-ALNUSAYRI](https://github.com/RAKAN-A-ALNUSAYRI)

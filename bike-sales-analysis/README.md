@@ -49,4 +49,4 @@ queries.sql                 the SQL behind every number here
 Excel (pivot tables, Power Query), SQL
 
 ---
-Rakan Ahmed Al-Nusayri — [github.com/RaKaN-DaTa](https://github.com/RaKaN-DaTa)
+Rakan Ahmed Al-Nusayri — [github.com/RAKAN-A-ALNUSAYRI](https://github.com/RAKAN-A-ALNUSAYRI)
